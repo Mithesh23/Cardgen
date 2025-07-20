@@ -1,4 +1,4 @@
 streamlit
 pandas
-qrcode[pill]
+qrcode[pil]
 Pillow
